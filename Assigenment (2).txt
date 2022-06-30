@@ -1,0 +1,9 @@
+1. Create Button that contain two option Quit and Hello using tkinter.
+
+2.Create Simple Menu with sub options.
+
+File -->New , Open , Exit 
+
+Help
+
+3.Create GUI for loan calculater. With necessory fields.
